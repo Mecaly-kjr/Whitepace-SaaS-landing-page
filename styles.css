@@ -1,0 +1,17 @@
+/* ===== Tokens (verify against Figma) ===== */
+:root {
+  --primary-color: #6c5ce7;
+  --primary-dark: #5648c9;
+  --primary-light: #eeeafe;
+  --text-color: #1f1b3a;
+  --muted-color: #5f5b7a;
+  --bg-color: #ffffff;
+  --bg-tint: #f6f4ff;
+  --border-color: #e4e0f7;
+  --footer-bg: #14112b;
+  --font-main: "Poppins", Arial, sans-serif;
+  --radius: 12px;
+  --shadow: 0 10px 30px rgba(108, 92, 231, 0.12);
+  --container: 1200px;
+}
+ 
